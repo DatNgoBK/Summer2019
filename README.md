@@ -1,2 +1,2 @@
 # Summer2019
-Use tensorflow for deep learning
+Use tensorflow, numpy for machine learning
